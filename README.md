@@ -1,30 +1,66 @@
 # 🚀 Tendências em Ciência da Computação
 
-Repositório acadêmico desenvolvido para a disciplina **Tendências em Ciência da Computação**, referente ao semestre **2026.2**.
+> **Repositório acadêmico • 2026.2**
 
-Este espaço será utilizado para registrar e organizar a **jornada de aprendizagem** ao longo da disciplina, reunindo atividades, desafios, pesquisas, experimentos, projetos e demais produções desenvolvidas durante o semestre.
+Repositório desenvolvido para a disciplina **Tendências em Ciência da Computação**, referente ao semestre **2026.2**.
 
----
-
-## 🎓 Sobre a disciplina
-
-A disciplina de **Tendências em Ciência da Computação** aborda tecnologias e práticas relacionadas à evolução da Inteligência Artificial e suas aplicações no desenvolvimento de soluções computacionais.
-
-Ao longo do semestre, serão explorados conceitos de **Inteligência Artificial, modelos generativos, Engenharia de Prompt, programação assistida por IA, Low Code/No Code, agentes de IA, segurança, privacidade e ética**, além do desenvolvimento de uma solução inteligente como projeto final.
-
-Os recursos e tecnologias utilizados poderão ser atualizados conforme a evolução das ferramentas e tecnologias de Inteligência Artificial.
+Este espaço acompanha a **jornada de aprendizagem** ao longo da disciplina, reunindo atividades, desafios, pesquisas, experimentos, projetos e demais produções desenvolvidas durante o semestre.
 
 ---
 
-## 🧭 Jornada da Disciplina
+## 🗺️ Visão Geral
 
-A jornada está organizada em quatro unidades principais:
+A disciplina acompanha a evolução das tecnologias relacionadas à **Inteligência Artificial** e suas aplicações no desenvolvimento de soluções computacionais.
 
-### 🧠 Unidade I — Fundamentos
+Durante o semestre, serão explorados:
 
-Nesta etapa serão trabalhados os fundamentos de Inteligência Artificial e modelos generativos.
+| Tema                       | Conteúdo                                              |
+| -------------------------- | ----------------------------------------------------- |
+| 🧠 Inteligência Artificial | Fundamentos e aplicações                              |
+| 🤖 IA Generativa           | Modelos generativos e LLMs                            |
+| ✍️ Engenharia de Prompt    | Criação, estrutura e refinamento de prompts           |
+| 💻 Programação com IA      | Desenvolvimento assistido por Inteligência Artificial |
+| 🧩 Low Code / No Code      | Desenvolvimento com pouco ou nenhum código            |
+| 🕹️ Agentes de IA          | Agentes e chatbots                                    |
+| 🔐 Segurança e Privacidade | Proteção de dados e segurança                         |
+| ⚖️ Ética                   | Viés, responsabilidade e impactos sociais             |
 
-**Principais temas:**
+> **Nota:** os recursos e tecnologias utilizados poderão ser atualizados conforme a evolução das ferramentas e tecnologias de Inteligência Artificial.
+
+---
+
+# 🧭 Jornada da Disciplina
+
+A jornada está dividida em **quatro unidades principais**, que conduzem dos fundamentos da Inteligência Artificial até a criação de soluções inteligentes.
+
+```text
+🧠 Unidade I
+Fundamentos
+     │
+     ▼
+💻 Unidade II
+Programação Assistida
+     │
+     ▼
+🧩 Unidade III
+Low Code / No Code
+     │
+     ▼
+🤖 Unidade IV
+Agentes e Ética
+     │
+     ▼
+🏆 Projeto Final
+Solução Inteligente
+```
+
+---
+
+## 🧠 Unidade I — Fundamentos
+
+Nesta etapa serão trabalhados os fundamentos de **Inteligência Artificial** e **modelos generativos**.
+
+### Principais temas
 
 * Fundamentos de Inteligência Artificial;
 * Modelos de linguagem (LLMs);
@@ -33,7 +69,7 @@ Nesta etapa serão trabalhados os fundamentos de Inteligência Artificial e mode
 * Criação e refinamento de prompts;
 * Contexto, estrutura, papéis e restrições em prompts.
 
-**Práticas previstas:**
+### 🧪 Práticas previstas
 
 * Demonstrações com ferramentas de IA;
 * Criação de prompts;
@@ -42,11 +78,11 @@ Nesta etapa serão trabalhados os fundamentos de Inteligência Artificial e mode
 
 ---
 
-### 💻 Unidade II — Programação Assistida
+## 💻 Unidade II — Programação Assistida
 
-Nesta unidade será explorado o uso da Inteligência Artificial como ferramenta de apoio ao desenvolvimento de software.
+Nesta unidade será explorado o uso da **Inteligência Artificial como ferramenta de apoio ao desenvolvimento de software**.
 
-**Principais temas:**
+### Principais temas
 
 * Programação assistida por IA;
 * Sugestão e geração de código;
@@ -55,7 +91,7 @@ Nesta unidade será explorado o uso da Inteligência Artificial como ferramenta 
 * Colaboração entre humano e IA;
 * Boas práticas no uso de IA durante o desenvolvimento.
 
-**Ferramentas previstas:**
+### 🛠️ Ferramentas previstas
 
 * GitHub Copilot;
 * Replit;
@@ -63,11 +99,11 @@ Nesta unidade será explorado o uso da Inteligência Artificial como ferramenta 
 
 ---
 
-### 🧩 Unidade III — Low Code / No Code
+## 🧩 Unidade III — Low Code / No Code
 
-Nesta etapa serão estudadas abordagens que permitem desenvolver soluções utilizando pouco ou nenhum código tradicional.
+Nesta etapa serão estudadas abordagens que permitem desenvolver soluções utilizando **pouco ou nenhum código tradicional**.
 
-**Principais temas:**
+### Principais temas
 
 * Low Code;
 * No Code;
@@ -76,7 +112,7 @@ Nesta etapa serão estudadas abordagens que permitem desenvolver soluções util
 * Desenvolvimento de aplicações híbridas;
 * Potencialidades e limitações das abordagens visuais.
 
-**Ferramentas previstas:**
+### 🛠️ Ferramentas previstas
 
 * Bubble;
 * Make;
@@ -84,11 +120,11 @@ Nesta etapa serão estudadas abordagens que permitem desenvolver soluções util
 
 ---
 
-### 🤖 Unidade IV — Agentes e Ética
+## 🤖 Unidade IV — Agentes e Ética
 
-A última unidade aborda a criação de agentes de Inteligência Artificial e os aspectos éticos relacionados ao seu desenvolvimento e utilização.
+A última unidade aborda a criação de **agentes de Inteligência Artificial** e os aspectos éticos relacionados ao seu desenvolvimento e utilização.
 
-**Principais temas:**
+### Principais temas
 
 * Agentes de IA;
 * Chatbots;
@@ -101,11 +137,11 @@ A última unidade aborda a criação de agentes de Inteligência Artificial e os
 
 ---
 
-## 🏆 Projeto Final
+# 🏆 Projeto Final
 
 Como parte da jornada da disciplina, será desenvolvido um **projeto prático para criação de uma solução inteligente**.
 
-O projeto envolverá:
+### O projeto envolverá
 
 * Desenvolvimento da solução;
 * Utilização de conceitos estudados durante a disciplina;
@@ -116,7 +152,7 @@ O projeto envolverá:
 
 ---
 
-## 📂 Organização do Repositório
+# 📂 Organização do Repositório
 
 O repositório será organizado para acompanhar a evolução das atividades durante o semestre.
 
@@ -156,66 +192,83 @@ Tendencias_Ciencia_Computacao_2026_2_Kadidja/
 
 ---
 
-## 📝 Atividades
+# 📝 Acompanhamento das Atividades
 
-| Etapa         | Atividade                              | Status          |
-| ------------- | -------------------------------------- | --------------- |
-| Jornada       | Missão 01 — Atividade de decolagem     | ✅ Concluído |
+| Etapa         | Atividade                              |      Status     |
+| ------------- | -------------------------------------- | :-------------: |
+| Jornada       | Missão 01 — Atividade de decolagem     |   ✅ Concluído   |
 | Unidade I     | Fundamentos de IA                      | 🔄 Em andamento |
-| Unidade I     | Engenharia de Prompt                   | ⏳ Pendente      |
-| Unidade II    | Programação Assistida por IA           | ⏳ Pendente      |
-| Unidade III   | Low Code / No Code                     | ⏳ Pendente      |
-| Unidade IV    | Agentes e Ética                        | ⏳ Pendente      |
-| Projeto Final | Desenvolvimento de solução inteligente | ⏳ Pendente      |
+| Unidade I     | Engenharia de Prompt                   |    ⏳ Pendente   |
+| Unidade II    | Programação Assistida por IA           |    ⏳ Pendente   |
+| Unidade III   | Low Code / No Code                     |    ⏳ Pendente   |
+| Unidade IV    | Agentes e Ética                        |    ⏳ Pendente   |
+| Projeto Final | Desenvolvimento de solução inteligente |    ⏳ Pendente   |
 
 A primeira atividade da disciplina corresponde à **Missão 01**, apresentada durante a aula inaugural.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# 🛠️ Tecnologias e Ferramentas
 
-Durante a disciplina poderão ser utilizadas diferentes ferramentas e tecnologias relacionadas à Inteligência Artificial e ao desenvolvimento de software.
+Durante a disciplina poderão ser utilizadas diferentes ferramentas e tecnologias relacionadas à **Inteligência Artificial** e ao **desenvolvimento de software**.
 
-Entre elas:
+### 🤖 Inteligência Artificial
 
-* 🤖 Inteligência Artificial Generativa;
-* 💬 ChatGPT;
-* 💻 GitHub Copilot;
-* 🧑‍💻 Replit;
-* 🧩 Bubble;
-* ⚙️ Make;
-* 🐙 GitHub;
-* 🌐 Outras ferramentas de IA e desenvolvimento.
+* Inteligência Artificial Generativa;
+* Claude;
+* GitHub Copilot;
+* Codex.
 
-A seleção de ferramentas poderá ser atualizada de acordo com a evolução das tecnologias de Inteligência Artificial.
+### 🧩 Low Code / No Code
 
----
+* Bubble;
+* Make.
 
-## 👨‍💻 Autor
+### 🌐 Desenvolvimento e colaboração
 
-**Kauã Sousa**
+* GitHub;
+* Outras ferramentas de IA e desenvolvimento.
 
-🎓 Estudante de Ciência da Computação
-
-🔗 GitHub: [@Kaua1217](https://github.com/Kaua1217)
+> A seleção de ferramentas poderá ser atualizada de acordo com a evolução das tecnologias de Inteligência Artificial.
 
 ---
 
-## 📚 Disciplina
+# 👨‍💻 Autor
 
-**Tendências em Ciência da Computação**
+### Renan Ribeiro
 
-**Semestre:** 2026.2
-**Professora:** Kadidja Valéria
+🎓 **Estudante de Ciência da Computação**
 
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a **MIT License**.
-
-Consulte o arquivo [LICENSE](LICENSE) para mais informações.
+🔗 GitHub: [@RibeiroRenan04](https://github.com/RibeiroRenan04)
 
 ---
 
-> 🚀 **Este repositório representa a jornada de aprendizado e experimentação ao longo da disciplina de Tendências em Ciência da Computação.**
+# 📚 Informações da Disciplina
+
+| Informação       | Detalhes                                |
+| ---------------- | --------------------------------------- |
+| 📖 Disciplina    | **Tendências em Ciência da Computação** |
+| 📅 Semestre      | **2026.2**                              |
+| 👩‍🏫 Professora | **Kadidja Valéria**                     |
+
+---
+
+# 📄 Licença
+
+Este projeto está licenciado sob a **Creative Commons Zero V1.0**.
+
+Consulte o arquivo [LICENSE](https://github.com/Kaua1217/Tendencias_Ciencia_Computacao_2026_2_Kadidja/blob/main/LICENSE) para mais informações.
+
+---
+
+<div align="center">
+
+### 🚀 Jornada de Aprendizado
+
+**Tendências em Ciência da Computação • 2026.2**
+
+Este repositório representa a jornada de aprendizado e experimentação ao longo da disciplina de **Tendências em Ciência da Computação**.
+
+**🧠 Aprender • 🧪 Experimentar • 💻 Desenvolver • 🚀 Evoluir**
+
+</div>
