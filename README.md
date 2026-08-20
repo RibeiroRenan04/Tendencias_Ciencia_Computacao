@@ -35,7 +35,7 @@ A jornada está dividida em **quatro unidades principais**, que conduzem dos fun
 
 ```text
 🧠 Unidade I
-Fundamentos
+Fundamentos de IA
      │
      ▼
 💻 Unidade II
