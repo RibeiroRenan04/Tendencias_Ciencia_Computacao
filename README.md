@@ -31,7 +31,7 @@ Durante o semestre, serão explorados:
 
 # 🧭 Jornada da Disciplina
 
-A jornada está dividida em **quatro unidades principais**, que conduzem dos fundamentos da Inteligência Artificial até a criação de soluções inteligentes.
+A jornada está dividida em **quatro unidades principais** que conduzem dos fundamentos da Inteligência Artificial até a criação de soluções inteligentes.
 
 ```text
 🧠 Unidade I
