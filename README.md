@@ -118,6 +118,12 @@ Nesta etapa serão estudadas abordagens que permitem desenvolver soluções util
 * Make;
 * Outras plataformas relacionadas.
 
+### ✅ Projeto da unidade: AutoTria
+
+Automação que **valida, confirma por e-mail e classifica com IA** as mensagens de um formulário de contato, usando **Make + Airtable + Gmail**. Protótipo funcional, com **10 de 10 testes aprovados**.
+
+📁 Documentação completa: [`Unidade03/`](Unidade03)
+
 ---
 
 ## 🤖 Unidade IV — Agentes e Ética
@@ -157,33 +163,24 @@ Como parte da jornada da disciplina, será desenvolvido um **projeto prático pa
 O repositório será organizado para acompanhar a evolução das atividades durante o semestre.
 
 ```text
-Tendencias_Ciencia_Computacao_2026_2_Kadidja/
+Tendencias_Ciencia_Computacao/
 │
-├── 📁 Jornada/
-│   └── Missão 01/
+├── 📁 Unidade01/                 # Fundamentos de IA e Engenharia de Prompt
+│   ├── Aula01 - FundamentosIA/
+│   ├── Aula02 - Engenharia_de_prompt/
+│   └── Aula03 - Refinamento_Prompt/
 │
-├── 📁 Unidade-I-Fundamentos/
-│   ├── Engenharia-de-Prompt/
-│   ├── LLMs/
-│   └── Atividades/
+├── 📁 Unidade02/                 # Programação Assistida por IA
+│   ├── Aula01 - Programação assistida com IA/
+│   └── Aula02 - Programacao_Assistida/
 │
-├── 📁 Unidade-II-Programacao-Assistida/
-│   ├── Programacao-com-IA/
-│   ├── Automacao/
-│   └── Atividades/
+├── 📁 Unidade03/                 # Low Code / No Code: projeto AutoTria
+│   ├── README.md
+│   ├── prints/
+│   ├── Aula01 - Low_Code_Automation/
+│   └── Aula02 - Projeto_LowCode_NoCode/
 │
-├── 📁 Unidade-III-Low-Code-No-Code/
-│   ├── Low-Code/
-│   ├── No-Code/
-│   └── Atividades/
-│
-├── 📁 Unidade-IV-Agentes-e-Etica/
-│   ├── Agentes/
-│   ├── Etica/
-│   └── Atividades/
-│
-├── 📁 Projeto-Final/
-│
+├── 📄 Jornada_do semestre_AulaInaugural_Tendencias_CCP.pdf
 ├── 📄 README.md
 └── 📄 LICENSE
 ```
@@ -197,10 +194,10 @@ Tendencias_Ciencia_Computacao_2026_2_Kadidja/
 | Etapa         | Atividade                              |      Status     |
 | ------------- | -------------------------------------- | :-------------: |
 | Jornada       | Missão 01 — Atividade de decolagem     |   ✅ Concluído   |
-| Unidade I     | Fundamentos de IA                      | 🔄 Em andamento |
-| Unidade I     | Engenharia de Prompt                   |    ⏳ Pendente   |
-| Unidade II    | Programação Assistida por IA           |    ⏳ Pendente   |
-| Unidade III   | Low Code / No Code                     |    ⏳ Pendente   |
+| Unidade I     | [Fundamentos de IA](Unidade01)         |   ✅ Concluído   |
+| Unidade I     | [Engenharia de Prompt](Unidade01)      |   ✅ Concluído   |
+| Unidade II    | [Programação Assistida por IA](Unidade02) |   ✅ Concluído   |
+| Unidade III   | [Low Code / No Code: AutoTria](Unidade03) |   ✅ Concluído   |
 | Unidade IV    | Agentes e Ética                        |    ⏳ Pendente   |
 | Projeto Final | Desenvolvimento de solução inteligente |    ⏳ Pendente   |
 
@@ -257,7 +254,7 @@ Durante a disciplina poderão ser utilizadas diferentes ferramentas e tecnologia
 
 Este projeto está licenciado sob a **Creative Commons Zero V1.0**.
 
-Consulte o arquivo [LICENSE](https://github.com/Kaua1217/Tendencias_Ciencia_Computacao_2026_2_Kadidja/blob/main/LICENSE) para mais informações.
+Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
 
