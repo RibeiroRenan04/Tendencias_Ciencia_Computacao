@@ -118,11 +118,13 @@ Nesta etapa serão estudadas abordagens que permitem desenvolver soluções util
 * Make;
 * Outras plataformas relacionadas.
 
-### ✅ Projeto da unidade: AutoTria
+### 📌 Atividade realizada
 
-Automação que **valida, confirma por e-mail e classifica com IA** as mensagens de um formulário de contato, usando **Make + Airtable + Gmail**. Protótipo funcional, com **10 de 10 testes aprovados**.
+| Aula | Projeto | Ferramentas | Material |
+| ---- | ------- | ----------- | -------- |
+| Aula 01 — Low Code e No Code | **AutoTria** · triagem automática de mensagens de contato com IA (categoria, prioridade e resumo) | Make, Airtable, Gmail e Make AI Toolkit | [📁 Unidade03/Aula01 - Low Code e No Code](Unidade03/Aula01%20-%20Low%20Code%20e%20No%20Code/README.md) |
 
-📁 Documentação completa: [`Unidade03/`](Unidade03)
+> Repositório completo do projeto: [RibeiroRenan04/AutoTria](https://github.com/RibeiroRenan04/AutoTria).
 
 ---
 
@@ -165,20 +167,24 @@ O repositório será organizado para acompanhar a evolução das atividades dura
 ```text
 Tendencias_Ciencia_Computacao/
 │
-├── 📁 Unidade01/                 # Fundamentos de IA e Engenharia de Prompt
+├── 📁 Unidade01/
 │   ├── Aula01 - FundamentosIA/
 │   ├── Aula02 - Engenharia_de_prompt/
 │   └── Aula03 - Refinamento_Prompt/
 │
-├── 📁 Unidade02/                 # Programação Assistida por IA
+├── 📁 Unidade02/
 │   ├── Aula01 - Programação assistida com IA/
 │   └── Aula02 - Programacao_Assistida/
 │
-├── 📁 Unidade03/                 # Low Code / No Code: projeto AutoTria
-│   ├── README.md
-│   ├── prints/
-│   ├── Aula01 - Low_Code_Automation/
-│   └── Aula02 - Projeto_LowCode_NoCode/
+├── 📁 Unidade03/
+│   └── Aula01 - Low Code e No Code/
+│       ├── README.md
+│       ├── config/   (blueprint do cenário no Make)
+│       ├── docs/     (prompts e casos de teste)
+│       └── prints/   (evidências do funcionamento)
+│
+├── 📁 Unidade04/          (em breve)
+├── 📁 Projeto-Final/      (em breve)
 │
 ├── 📄 Jornada_do semestre_AulaInaugural_Tendencias_CCP.pdf
 ├── 📄 README.md
@@ -194,10 +200,10 @@ Tendencias_Ciencia_Computacao/
 | Etapa         | Atividade                              |      Status     |
 | ------------- | -------------------------------------- | :-------------: |
 | Jornada       | Missão 01 — Atividade de decolagem     |   ✅ Concluído   |
-| Unidade I     | [Fundamentos de IA](Unidade01)         |   ✅ Concluído   |
-| Unidade I     | [Engenharia de Prompt](Unidade01)      |   ✅ Concluído   |
-| Unidade II    | [Programação Assistida por IA](Unidade02) |   ✅ Concluído   |
-| Unidade III   | [Low Code / No Code: AutoTria](Unidade03) |   ✅ Concluído   |
+| Unidade I     | Fundamentos de IA                      | 🔄 Em andamento |
+| Unidade I     | Engenharia de Prompt                   |    ⏳ Pendente   |
+| Unidade II    | Programação Assistida por IA           |    ⏳ Pendente   |
+| Unidade III   | Low Code / No Code — AutoTria          |   ✅ Concluído   |
 | Unidade IV    | Agentes e Ética                        |    ⏳ Pendente   |
 | Projeto Final | Desenvolvimento de solução inteligente |    ⏳ Pendente   |
 
@@ -219,7 +225,8 @@ Durante a disciplina poderão ser utilizadas diferentes ferramentas e tecnologia
 ### 🧩 Low Code / No Code
 
 * Bubble;
-* Make.
+* Make;
+* Airtable.
 
 ### 🌐 Desenvolvimento e colaboração
 
