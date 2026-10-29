@@ -232,9 +232,13 @@ Por fim, o Low Code se mostrou ideal para **protótipos e automações internas*
 
 ## 8. 👥 Colaboração
 
-| Integrante | Responsabilidades |
-|---|---|
-| Renan Ribeiro | Definição do desafio, montagem do cenário no Make e do Airtable, criação e refinamento do prompt, testes e documentação |
+| Integrante |
+|---|
+| Renan Ribeiro |
+| Gustavo Lucas |
+| Rafael Pereira |
+
+**Como o grupo se organizou:** o projeto foi desenvolvido em conjunto pelos três integrantes, passando pela definição do desafio, montagem do cenário no Make e da base no Airtable, criação e refinamento do prompt, testes e documentação.
 
 **Uso de IA no desenvolvimento:** ferramentas de IA apoiaram a definição do escopo, a escrita e a revisão dos prompts, a montagem do cenário e a documentação. Toda lógica gerada foi testada antes de ser aceita.
 
