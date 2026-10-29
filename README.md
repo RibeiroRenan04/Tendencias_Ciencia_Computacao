@@ -261,7 +261,7 @@ Durante a disciplina poderão ser utilizadas diferentes ferramentas e tecnologia
 
 Este projeto está licenciado sob a **Creative Commons Zero V1.0**.
 
-Consulte o arquivo [LICENSE](https://github.com/Kaua1217/Tendencias_Ciencia_Computacao_2026_2_Kadidja/blob/main/LICENSE) para mais informações.
+Consulte o arquivo [LICENSE](LICENSE) para mais informações.
 
 ---
 
